@@ -17,4 +17,4 @@ LZSA Lina V2 OK avec son 3D pour enceintes 2.1. Distribution Linux sur mesure op
 
 1. Flasher l'ISO sur une clé USB avec Ventoy.
 2. Démarrer sur la clé (accès au Live CD).
-3. Guide de démarrage : [Fichier Boot & BIOS - Procédure selon le modèle](https://docs.google.com/document/d/1v6NlGllEYs81XShLJNRXeWSju4qvQOow/edit?usp=sharing&ouid=116310059261653804102&rtpof=true&sd=true)
+3. * Guide de démarrage : [Fichier Boot & BIOS - Procédure selon le modèle](https://docs.google.com/document/d/1v6NlGllEYs81XShLJNRXeWSju4qvQOow/edit?usp=sharing&ouid=116310059261653804102&rtpof=true&sd=true)
