@@ -12,6 +12,7 @@ LZSA Lina V2 OK avec son 3D pour enceintes 2.1. Distribution Linux sur mesure op
 
 * Basé sur : Linux Mint / Ubuntu
 * Génération de l'ISO : Penguins' Eggs
+* Logiciels phares audio : JamesDsp le son 3D, Shortwave (La radio logicielle numérique mp3 ogg avec plus de 60000 stations), Spotify, VLC, Chrome, Qbz (Qobuz)
 
 💻 **Installation**
 
